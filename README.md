@@ -72,6 +72,6 @@ To build a fire combat robot that can automatically detect fire and extinguish i
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Damini M.K**  
 Internship Project – Fire Combat Robot
