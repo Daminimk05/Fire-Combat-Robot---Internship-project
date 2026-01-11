@@ -48,7 +48,7 @@ To build a fire combat robot that can automatically detect fire and extinguish i
 ### Robot Setup
 ![Fire Combat Robot Setup](images/robot_setup.jpg)
 
-### Block Diagram
+### Circuit Diagram
 ![Circuit Diagram](images/circuit_diagram.png)
 
 *(Images are added for reference and demonstration purposes.)*
